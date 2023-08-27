@@ -1,5 +1,6 @@
 Estrutura:
 
+```bash
 SD/
 ├── .idea
 ├── src/main/java/org.example
@@ -11,6 +12,7 @@ SD/
 │   ├── .gitignore
 │   └── pom.xml
 └── README.md
+```
 
 ```markdown
 # Sistema de Troca de Mensagens com Serialização
@@ -68,7 +70,5 @@ O cliente enviará as informações para o servidor nos diferentes formatos de s
 - Este é um exemplo simples para fins de demonstração.
 - Certifique-se de que o servidor esteja em execução antes de iniciar o cliente.
 - Os dados são manipulados em memória e não são persistentes.
-
-```
 
 
