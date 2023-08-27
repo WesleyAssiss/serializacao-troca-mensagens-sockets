@@ -7,7 +7,7 @@ SD/
 │   ├── Cliente.py
 │   ├── Servidor.py
 │   ├── resources
-├──└── test/
+├── └── test/
 │   ├── target
 │   ├── .gitignore
 │   └── pom.xml
