@@ -1,4 +1,16 @@
-Claro! Aqui estão as instruções para executar o sistema de troca de mensagens entre cliente e servidor via sockets, que demonstra os diferentes formatos de serialização. Adicione o seguinte conteúdo ao arquivo `README.md` do seu repositório:
+Estrutura:
+
+SD/
+├── .idea
+├── src/main/java/org.example
+│   ├── Cliente.py
+│   ├── Servidor.py
+│   ├── resources
+├──└── test/
+│   ├── target
+│   ├── .gitignore
+│   └── pom.xml
+└── README.md
 
 ```markdown
 # Sistema de Troca de Mensagens com Serialização
