@@ -71,4 +71,4 @@ O cliente enviará as informações para o servidor nos diferentes formatos de s
 
 ```
 
-Lembre-se de ajustar os comandos e os detalhes de acordo com a estrutura do seu repositório e o código fornecido. Certifique-se também de que as instruções estão claras e concisas para que os usuários possam seguir facilmente.
+
