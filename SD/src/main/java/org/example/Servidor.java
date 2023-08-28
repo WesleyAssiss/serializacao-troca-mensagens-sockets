@@ -31,8 +31,8 @@ public class Servidor {
                 switch (i) {
                     case 0:
                         System.out.println("Formato CSV:");
-                        String formattedMessageCSV = "{\"Nome\":\"" + nome + "\", \"CPF\":\"" + cpf + "\", \"idade\":" + idade + ", \"mensagem\":\"" + mensagem + "\"}";
-                        System.out.println(formattedMessageCSV +"\n");
+                        String formattedMessageCSV = "Nome,CPF,idade,mensagem\n" + nome + "," + cpf + "," + idade + "," + mensagem;
+                        System.out.println(formattedMessageCSV + "\n");
                         break;
                     case 1:
                         System.out.println("Formato JSON:");
